@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Base Transformer NLP
+description: PyTorch implementation of the Transformer architecture from "Attention Is All You Need" (Vaswani et al., 2017)
+img: 
 importance: 3
-category: fun
+category: Paper/Model Implementations
 ---
 
 Every project has a beautiful feature showcase page.

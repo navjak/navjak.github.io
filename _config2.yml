@@ -2,8 +2,6 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-# custom.scss --> to change the overall size of the website
-
 title: Navdeep Singh Jakhar # the website title (if blank, full name will be used instead)
 first_name: Navdeep
 middle_name: Singh
@@ -56,8 +54,7 @@ posts_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 800px
-# max_width: 1200px
+max_width: 930px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -125,22 +122,13 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-
-
-
-# external_sources:
-#   - name: medium.com
-#     rss_url: https://medium.com/@al-folio/feed
-#   - name: Google Blog
-#     posts:
-#       - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-#         published_date: 2024-05-14
-
-external_sources: []
-
-
-
-
+external_sources:
+  - name: medium.com
+    rss_url: https://medium.com/@al-folio/feed
+  - name: Google Blog
+    posts:
+      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+        published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -209,6 +197,7 @@ exclude:
   - _pages/profiles.md
   - _pages/dropdown.md
   - _pages/repositories.md
+
 keep_files:
   - CNAME
   - .nojekyll
@@ -283,10 +272,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 scholar:
   # last_name: [Einstein]
   # first_name: [Albert, A.]
-  last_name: [Singh Jakhar]
+  last_name: [Jakhar]
   first_name: [Navdeep, N.]
-
-
 
   style: apa
   locale: en
@@ -307,6 +294,7 @@ scholar:
 
   query: "@*"
   group_by: year
+  # group_by: none
   group_order: descending
 
 # Display different badges withs stats for your publications
@@ -656,10 +644,10 @@ jsonresume:
   - education
   - publications
   - projects
-  #- volunteer
+  - volunteer
   - awards
   - certificates
   - skills
   - languages
-  - Research Interests
-  # - references
+  - interests
+  - references

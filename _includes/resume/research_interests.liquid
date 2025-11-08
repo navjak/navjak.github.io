@@ -1,0 +1,17 @@
+{% assign skills = site.data.resume.research_interests %}
+{% if skills and skills.size > 0 %}
+  <section class="resume-section">
+    {% for s in skills %}
+      <div class="resume-item">
+        {% if s.name %}<h3 class="resume-item-title">{{ s.name }}</h3>{% endif %}
+        {% if s.keywords and s.keywords.size > 0 %}
+          <ul class="resume-item-list">
+            {% for k in s.keywords %}
+              <li>{{ k }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </section>
+{% endif %}
