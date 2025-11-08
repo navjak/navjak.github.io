@@ -6,12 +6,13 @@ subtitle: >
   Trainee Researcher @ <a href=""https://www.sac.gov.in/"" target="_blank">SAC</a>-<a href="https://www.isro.gov.in/" target="_blank">ISRO</a> 
   || Prev. AI Research @ <a href="https://s3d.cmu.edu/" target="_blank">CMU (S3D)</a> 
   , <a href="https://www.srmist.edu.in/" target="_blank">SRMIST</a>
+ 
 
 
 profile:
   align: right
   image: website_pic2.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <div style="text-align: center;">
       <p>✉️ <a href="mailto:navdeepjakhar30@email.com">navdeepjakhar30@email.com</a></p>
@@ -24,7 +25,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -35,14 +36,27 @@ latest_posts:
 ---
 
 
+🧩 <b>Currently working on Unified Diffusion and Multimodal Architectures.</b>
 
-i am navdeep singh jakhar. i love reserch and i plan to build a career in AI resaerch.  previously, did resararch at sac-isro, cmu and srm ist
+At the Space Applications Centre – Indian Space Research Organisation (<a href="https://www.sac.gov.in/" target="_blank">SAC</a>-<a href="https://www.isro.gov.in/" target="_blank">ISRO</a>), I worked on learned image compression for satellite imagery, implementing and adapting state-of-the-art entropy models and foundational architectures (Ballé et al., 2017; 2018).
 
-<br>
+Prior to that, at <a href="https://www.cmu.edu/" target="_blank">Carnegie Mellon University (CMU)</a>, Pittsburgh, under the guidance of <a href="https://www.ri.cmu.edu/ri-faculty/raj-reddy/" target="_blank">Prof. Raj Reddy</a> and <a href="https://rwjms.rutgers.edu/people/naveena-yanamala" target="_blank">Dr. Naveena Yanamala</a>, I developed a predictive multimodal framework to assess aortic stenosis risk by integrating heterogeneous clinical and sensor data.
 
-- FIGURE HOW TO REMOVE OTHER AUTHORS PAPERS FROM MY PUBLICATIONS PAGE.
-- add SUMMARY part for things in CV page
-- add all projects (like base-transformer-NLP project)
+Parallely, at <a href="https://www.srmist.edu.in/" target="_blank">SRM Institute of Science and Tech.</a>, I developed a digital-twin-based public transport optimisation framework and a multimodal diagnostic system for Autism Spectrum Disorder (ASD). I graduated with a CGPA of 9.56/10 and Department Rank 5.
+
+Beyond formal research, I also enjoy independent research and open-source development. Recently, I extended Stable Diffusion 3’s two-modality MM-DiT (Multimodal Diffusion Transformer) to n-modalities and released it as an open-source PyTorch package. I am currently expanding it to include variants inspired by other multimodal models such as OmniGen and Janus. For more projects, check out my [Projects](/projects/) page.
+
+
+## Research Interests
+
+- Representation Learning
+- Unified Diffusion and Multimodal Architectures
+- Learned Image Compression
+- Domain Adaptation
+- Large-Language and Vision-Language Models (LLMs / VLMs)
+
+
+
 
 
 
