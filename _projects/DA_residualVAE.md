@@ -3,6 +3,7 @@ layout: page
 title: Domain Adaptive Residual VAE
 description: Residual VAE trained on MNIST and fine-tuned on EMNIST to handle low-to-moderate domain shift
 img: 
+redirect: https://github.com/navjak/Domain-adaptive-Residual-VAE
 importance: 3
 category: Projects
 related_publications: true

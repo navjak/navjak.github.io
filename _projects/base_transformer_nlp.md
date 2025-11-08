@@ -3,7 +3,8 @@ layout: page
 title: Base Transformer NLP
 description: PyTorch implementation of the Transformer architecture from "Attention Is All You Need" (Vaswani et al., 2017)
 img: 
-importance: 3
+redirect: https://github.com/navjak/base-transformer-NLP
+importance: 8
 category: Paper/Model Implementations
 ---
 

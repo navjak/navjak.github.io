@@ -1,0 +1,12 @@
+---
+layout: page
+title: Domain Adaptation and Zero-Shot Evaluation of CLIP
+description: Building a pipeline to evaluate CLIP’s zero-shot performance across diverse domains and extend it with LoRA-based adaptation for satellite images.
+img: #assets/img/4.jpg
+redirect: /projects/
+importance: 2
+category:  Ongoing
+related_publications: false
+---
+
+Building a reproducible pipeline to evaluate CLIP’s zero-shot performance across diverse domains and extend it with LoRA-based adaptation for satellite images.

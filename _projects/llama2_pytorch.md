@@ -3,7 +3,8 @@ layout: page
 title: LLaMA-2 model (PyTorch)
 description: PyTorch implementation of the LLaMA 2 transformer model for inference
 img: #assets/img/1.jpg
-importance: 1
+redirect: https://github.com/navjak/LLaMA2-pytorch
+importance: 6
 category: Paper/Model Implementations
 related_publications: true
 ---

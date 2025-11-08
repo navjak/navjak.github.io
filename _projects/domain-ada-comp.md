@@ -4,7 +4,7 @@ title: Cross-Domain Neural Models for Learned Compression
 description: Designing domain-adaptive models for learned image compression
 img: #assets/img/4.jpg
 importance: 1
-category: Ongoing
+category: #nothing - which means its hidden / wont show up on the projects page
 related_publications: false
 ---
 

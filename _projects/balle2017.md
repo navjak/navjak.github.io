@@ -3,8 +3,8 @@ layout: page
 title: Balle(2017) - Factorized Prior
 description: A TensorFlow implementation of Balle et al.'s 2017 'End-to-end Optimized Image Compression', which uses a FACTORIZED PRIOR entropy model.
 img: 
-redirect:
-importance: 3
+redirect: https://github.com/navjak/balle2017-factorized-prior
+importance: 9
 category: Paper/Model Implementations
 related_publications: true
 ---

@@ -3,7 +3,8 @@ layout: page
 title: Balle(2018) - Scale Hyperprior
 description: A TensorFlow implementation of the state-of-the-art 'Variational Image Compression with a Scale Hyperprior' by Balle et al. (2018)
 img: #assets/img/balle2018_2.png
-importance: 2
+redirect: https://github.com/navjak/balle2018-scale-hyperprior
+importance: 7
 category: Paper/Model Implementations
 giscus_comments: false
 related_publications: true
