@@ -17,7 +17,7 @@ profile:
     <div style="text-align: center;">
       <p>✉️ <a href="mailto:navdeepjakhar30@email.com">navdeepjakhar30@email.com</a></p>
       <p>👨‍💻 <a href="https://github.com/navjak" target="_blank">GitHub</a></p><br>
-      <p>🌐 <a href="www.linkedin.com/in/navdeepjakhar" target="_blank">LinkedIn</a></p>
+      <p>🌐 <a href="https://www.linkedin.com/in/navdeepjakhar/" target="_blank">LinkedIn</a></p>
     </div>  
 
 
