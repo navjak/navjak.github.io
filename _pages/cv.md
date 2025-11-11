@@ -1,6 +1,6 @@
 ---
 layout: 
-permalink: https://drive.google.com/file/d/1ZspMyxVOJSu_8rgNzYDWNUSffXSEEdhp/view?usp=drive_link #navdeep_website_cv.pdf #/cv/
+permalink: https://drive.google.com/file/d/1zEoBTrmO_LfPtNf9ZM8iUNuRm_h2Iw8l/view?usp=drive_link #navdeep_website_cv.pdf #/cv/
 # redirect: https://drive.google.com/file/d/1ZspMyxVOJSu_8rgNzYDWNUSffXSEEdhp/view?usp=drive_link 
 title: CV
 nav: true
