@@ -28,7 +28,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/https:/drive.google.com/file/d/1zEoBTrmO_LfPtNf9ZM8iUNuRm_h2Iw8l/view?usp=drive_link";
+            window.location.href = "/https:/drive.google.com/file/d/12B7S5pWI49jBddvhyZOu7DJ7eRP7CCX0/view?usp=sharing";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -442,11 +442,16 @@ ninja.data = [{
           description: "PyTorch implementation of the LLaMA 2 transformer model for inference",
           section: "Projects",handler: () => {
               window.location.href = "/projects/llama2_pytorch/";
-            },},{id: "projects-n-modality-mm-dit-package-pytorch",
-          title: 'n-modality MM-DiT package (PyTorch)',
+            },},{id: "projects-n-modality-mm-dit",
+          title: 'n-modality MM-DiT',
           description: "Extended the 2-modality Multimodal Diffusion Transformer (MMDiT) from Stable Diffusion 3 to support n-modalities (PyTorch package)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mmdit_pytorch/";
+            },},{id: "projects-torch-gated-attention",
+          title: 'torch-gated-attention',
+          description: "Architecture-agnostic implementation of Gated Attention for LLMs (Qiu et al. (2025)) (PyTorch package)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/torch_gated_attention/";
             },},{id: "projects-vit-2021",
           title: 'ViT_2021',
           description: "A TensorFlow 2.x implementation of the paper &#39;An Image is Worth 16x16 Words - Transformers for Image Recognition at Scale&#39; by Dosovitskiy et al. (2021)",
