@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my projects.
 nav: true
 nav_order: 3
-display_categories: [Paper/Model Implementations, Projects, Ongoing] # work,fun -> other 2 categories
+display_categories: [Open-Source Packages, Paper/Model Implementations, Projects, Ongoing] # work,fun -> other 2 categories
 horizontal: false
 ---
 
