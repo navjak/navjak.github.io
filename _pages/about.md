@@ -3,11 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  Trainee Researcher @ <a href=""https://www.sac.gov.in/"" target="_blank">SAC</a>-<a href="https://www.isro.gov.in/" target="_blank">ISRO</a> 
-  || Prev. AI Research @ <a href="https://s3d.cmu.edu/" target="_blank">CMU (S3D)</a> 
-  , <a href="https://www.srmist.edu.in/" target="_blank">SRMIST</a>
- 
-
+  AI Research @ <a href="https://www.cmu.edu/" target="_blank">CMU</a> | Prev. @ <a href=""https://www.sac.gov.in/"" target="_blank">SAC</a>-<a href="https://www.isro.gov.in/" target="_blank">ISRO</a>, <a href="https://s3d.cmu.edu/" target="_blank">CMU (S3D)</a>, <a href="https://www.srmist.edu.in/" target="_blank">SRMIST</a>
 
 profile:
   align: right
@@ -36,7 +32,31 @@ latest_posts:
 ---
 
 
-🧩 <b>Currently working on Unified Diffusion and Multimodal Architectures.</b>
+🧩 <b>Currently working on Mechanistic Interpretability of Diffusion Models.</b>
+
+
+Currently, at the <a href="https://xulabs.github.io/" target="_blank">Xu Lab</a> at <a href="https://www.cmu.edu/" target="_blank">Carnegie Mellon University (CMU)</a>, I am leading research on the mechanistic interpretability of diffusion models. Prior to this, I spent nine months at the Space Applications Centre - Indian Space Research Organisation (<a href="https://www.sac.gov.in/" target="_blank">SAC</a>-<a href="https://www.isro.gov.in/" target="_blank">ISRO</a>) conducting research on Learned Image Compression, focusing on VAE-based compression with hyperprior networks. Before that, I was an on-site Research Intern at <a href="https://s3d.cmu.edu/" target="_blank">CMU (S3D)</a>, developing a predictive framework to assess cardiac risk under <a href="https://www.ri.cmu.edu/ri-faculty/raj-reddy/" target="_blank">Prof. Raj Reddy</a> and <a href="https://rwjms.rutgers.edu/people/naveena-yanamala" target="_blank">Dr. Naveena Yanamala</a>.
+
+I graduated from <a href="https://www.srmist.edu.in/" target="_blank">SRM Institute of Science and Technology</a> with a CGPA of 9.56 and a department rank of 5. <b>I have dedicated two years to full-time research before pursuing a PhD.</b>
+
+Beyond formal research, I also enjoy independent research and open-source development. I recently built a complete training and inference pipeline for the <a href="https://arxiv.org/abs/2312.07322" target="_blank">GenHowTo</a> (CVPR 2024) paper (extending the official inference-only codebase release) and verified the implementation via a single-sample overfitting test. I also released torch-gated-attention, a PyTorch package providing an architecture-agnostic implementation of <a href="https://arxiv.org/abs/2505.06708" target="_blank">Gated Attention for LLMs</a> (Qiu et al., 2025), and extended the MM-DiT from Stable Diffusion 3 to handle n-modalities. You can find more of my experiments and implementations on my [Projects](/projects/) page.
+
+
+
+## Research Interests
+
+- Representation Learning
+- Generative Modeling
+- Multimodal Learning
+- Mechanistic Interpretability
+- Learned Image Compression
+- Large-Language and Vision-Language Models (LLMs / VLMs)
+
+
+
+
+
+<!--
 
 At the Space Applications Centre – Indian Space Research Organisation (<a href="https://www.sac.gov.in/" target="_blank">SAC</a>-<a href="https://www.isro.gov.in/" target="_blank">ISRO</a>), I worked on learned image compression for satellite imagery, implementing and adapting state-of-the-art entropy models and foundational architectures (Ballé et al., 2017; 2018).
 
@@ -47,24 +67,16 @@ Parallely, at <a href="https://www.srmist.edu.in/" target="_blank">SRM Institute
 Beyond formal research, I also enjoy independent research and open-source development. Recently, I extended Stable Diffusion 3’s two-modality MM-DiT (Multimodal Diffusion Transformer) to n-modalities and released it as an open-source PyTorch package. I am currently expanding it to include variants inspired by other multimodal models such as OmniGen and Janus. For more projects, check out my [Projects](/projects/) page.
 
 
-## Research Interests
-
-- Representation Learning
-- Unified Diffusion and Multimodal Architectures
-- Learned Image Compression
-- Domain Adaptation
-- Large-Language and Vision-Language Models (LLMs / VLMs)
+------------------------------------------------
+================================================
+------------------------------------------------
+================================================
 
 
-
-
-
-
-<!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
--->
 
+-->
