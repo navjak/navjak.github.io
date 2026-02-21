@@ -28,7 +28,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/https:/drive.google.com/file/d/12B7S5pWI49jBddvhyZOu7DJ7eRP7CCX0/view?usp=sharing";
+            window.location.href = "/https:/drive.google.com/file/d/1kWa3-79l8HxjB7NOMQRjk2jiYd14y_js/view?usp=sharing";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -437,6 +437,11 @@ ninja.data = [{
           description: "Designing domain-adaptive models for learned image compression",
           section: "Projects",handler: () => {
               window.location.href = "/projects/domain-ada-comp/";
+            },},{id: "projects-genhowto-pytorch",
+          title: 'GenHowTo (PyTorch)',
+          description: "Implementation of the training &amp; inference pipeline for CVPR (2024) paper &quot;GenHowTo&quot; (extending the official inference-only code release); implementation verified via a single-sample overfitting test",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/genhowto/";
             },},{id: "projects-llama-2-model-pytorch",
           title: 'LLaMA-2 model (PyTorch)',
           description: "PyTorch implementation of the LLaMA 2 transformer model for inference",
